@@ -27,14 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryansohani&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansohani&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Current Focus
 
 - Learning Spring & Spring Boot  
@@ -46,8 +38,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn link here)
-- Email: (Add your professional email here)
+- LinkedIn: https://www.linkedin.com/in/aryan-sohani-874622249/
+- Email: aryan.112123@gmail.com
 
 ---
 
