@@ -1,46 +1,66 @@
-# Hi there, I'm Aryan Sohani 👋
+<h1 align="center">Hi 👋, I'm Aryan Sohani</h1>
 
-### Aspiring Software Engineer
+<p align="center">
+  <b>Aspiring Software Engineer</b>
+</p>
 
-💻 Strong foundation in **Java (Servlet, JSP, JDBC, MySQL)**  
-📊 Experience in **Data Analytics**  
-🌱 Currently learning **Spring Framework** to build scalable backend systems  
-🔁 Exploring clean architecture & backend best practices  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Explored+Data+Analytics+%26+Machine+Learning;Currently+Learning+Spring+Framework;Focused+on+Scalable+Backend+Systems" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final Year Engineering Student  
+- 💻 Strong foundation in **Java (Servlet, JSP, JDBC, MySQL)**  
+- 📊 Worked with **Python, Pandas, NumPy, SQL, Power BI & Machine Learning**  
+- 🌱 Currently learning **Spring & Spring Boot**  
+- 🚀 Interested in backend architecture and real-world system building  
 
 ---
 
 ## 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=java,mysql,git,github,spring,html,css)
+### 🔹 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" />
+</p>
+
+Servlet • JSP • JDBC • MVC • Apache Tomcat  
 
 ---
 
-## 🏗 Backend Focus
+### 🔹 Data & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-- Java Servlets
-- JSP
-- JDBC
-- MySQL
-- MVC Architecture
-- CRUD Applications
-- Apache Tomcat
+Python • Pandas • NumPy • SQL • Power BI • Machine Learning  
 
 ---
+
 
 ## 🎯 Current Focus
 
-- Learning Spring & Spring Boot  
-- Building scalable backend systems  
-- Improving system design fundamentals  
-- Writing cleaner, structured code  
+- Building scalable backend applications  
+- Strengthening Spring fundamentals  
+- Improving problem-solving & system design  
+- Writing clean, maintainable code  
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/aryan-sohani-874622249/
-- Email: aryan.112123@gmail.com
+- LinkedIn:www.linkedin.com/in/
+aryan-sohani-874622249
+  
+- Email: aryan.112123@gmail.com 
 
 ---
 
-> “Consistent learning and structured growth toward becoming a better engineer.” 🚀
+<p align="center">
+  <i>"Consistent growth > Instant success."</i> 🚀
+</p>
