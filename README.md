@@ -1,84 +1,75 @@
 <h1 align="center">Hi 👋, I'm Aryan Sohani</h1>
 
 <p align="center">
-  <b>Backend Systems Engineer • Java & Spring Boot</b>
+  <b>🚀 Aspiring Software Engineer | Backend-Focused</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Backend+Systems;Spring+Boot+Engineer+in+Progress;Designing+Robust+APIs+%26+Optimized+Databases;Clean+Code.+Sharp+Logic.+Real+Impact." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Architecting+Scalable+Backend+Systems;Java+%7C+Spring+Boot+Enthusiast;Data+Analytics+%26+Machine+Learning+Explorer;Clean+Code.+Sharp+Logic.+Real+Impact." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Final Year Engineering Student  
 - 💻 Strong foundation in **Java (Servlet, JSP, JDBC, MySQL)**  
-- 🌱 Currently mastering **Spring & Spring Boot**  
-- 📊 Experienced in **Python, Pandas, NumPy, SQL & Machine Learning**  
-- 🧠 Passionate about backend architecture & system design  
-- 🚀 Focused on building scalable, production-ready systems  
+- 📊 Worked with **Python, Pandas, NumPy, SQL, Power BI & Machine Learning**  
+- 🌱 Currently learning **Spring & Spring Boot**  
+- 🚀 Interested in backend architecture and real-world system building  
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 🔹 Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" />
-</p>
-
-**Java • Spring Boot • Servlet • JSP • JDBC • MVC • MySQL • Apache Tomcat**
-
----
-
-### 🔹 Data & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Python • Pandas • NumPy • SQL • Power BI • Machine Learning**
-
----
-
-## 🏗️ What I’m Building
-
-- RESTful APIs using Spring Boot  
-- Database-driven backend systems  
-- Structured MVC applications  
-- Scalable architecture projects  
-
----
-
-## 📊 GitHub Stats
+## 🔹 Backend Development
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-sohani&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-sohani&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Servlet • JSP • JDBC • MVC • Apache Tomcat</b>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🔹 Data & Analytics
 
-- Strengthening Spring fundamentals  
-- Learning System Design concepts  
-- Writing clean, maintainable backend code  
-- Preparing for backend developer roles  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Python • Pandas • NumPy • SQL • Power BI • Machine Learning</b>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Current Focus
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/aryan-sohani-874622249  
-- 📧 Email: aryan.112123@gmail.com  
+<p align="center">
+  ⚡ Building scalable backend applications <br>
+  ⚡ Strengthening Spring fundamentals <br>
+  ⚡ Improving problem-solving & system design <br>
+  ⚡ Writing clean, maintainable code
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/aryan-sohani-874622249">LinkedIn</a> <br>
+  📧 aryan.112123@gmail.com
+</p>
 
 ---
 
 <p align="center">
-  <i>"Consistency builds empires."</i> 🚀
+  <b><i>“Consistent growth > Instant success.”</i></b> 🚀
 </p>
