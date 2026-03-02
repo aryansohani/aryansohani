@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Architecting+Scalable+Backend+Systems;Java+%7C+Spring+Boot+Enthusiast;Data+Analytics+%26+Machine+Learning+Explorer;Clean+Code.+Sharp+Logic.+Real+Impact." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Architecting+Scalable+Backend+Systems;Java+%7C+Spring+Boot+Enthusiast;Hibernate+%7C+Backend+Development;Data+Analytics+%26+Machine+Learning+Explorer;Clean+Code.+Sharp+Logic.+Real+Impact." />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 # 👨‍💻 About Me
 
 - 🎓 Final Year Engineering Student  
-- 💻 Strong foundation in **Java (Servlet, JSP, JDBC, MySQL)**  
+- 💻 Strong foundation in **Java (Servlet, JSP, JDBC, Hibernate, MySQL)**  
 - 📊 Worked with **Python, Pandas, NumPy, SQL, Power BI & Machine Learning**  
 - 🌱 Currently learning **Spring & Spring Boot**  
 - 🚀 Interested in backend architecture and real-world system building  
@@ -30,10 +30,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="48" alt="Hibernate Logo"/>
 </p>
 
 <p align="center">
-  <b>Servlet • JSP • JDBC • MVC • Apache Tomcat</b>
+  <b>Java • Spring • Hibernate • Servlet • JSP • JDBC • MVC • MySQL • Apache Tomcat</b>
 </p>
 
 ---
@@ -54,7 +55,7 @@
 
 <p align="center">
   ⚡ Building scalable backend applications <br>
-  ⚡ Strengthening Spring fundamentals <br>
+  ⚡ Strengthening Spring & Hibernate fundamentals <br>
   ⚡ Improving problem-solving & system design <br>
   ⚡ Writing clean, maintainable code
 </p>
